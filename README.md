@@ -1,2 +1,2 @@
-# C-PROGRAM
+# C-PROGRAM assingment-3
 ASSINGMENT PURPOS
